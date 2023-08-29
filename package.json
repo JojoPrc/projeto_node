@@ -11,5 +11,6 @@
   "author": "JojoPrc",
   "license": "MIT",
   "dependencies": {
+    "readline": "^1.3.0"
   }
 }
