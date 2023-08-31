@@ -1,5 +1,5 @@
 import chalk from 'chalk';
-import  program  from 'commander';
+import  {program}  from 'commander';
 import readline from 'readline';
 
 class PropertyManager {
