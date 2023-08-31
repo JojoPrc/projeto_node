@@ -51,3 +51,7 @@ class PropertyManager {
     this.rl.close();
   }
 }
+
+  
+const propertyManager = new PropertyManager();
+propertyManager.start();
